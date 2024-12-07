@@ -1,2 +1,2 @@
 # RoboSpeaker
-It is small project made using python and its packages
+It is a small project made using python and its packages
